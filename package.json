@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "A playground created to learn how to work with React",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndao1005/ReactPlayground.git"
+  },
+  "author": "JD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johndao1005/ReactPlayground/issues"
+  },
+  "homepage": "https://github.com/johndao1005/ReactPlayground#readme"
+}
